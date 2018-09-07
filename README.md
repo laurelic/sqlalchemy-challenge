@@ -1,4 +1,4 @@
-# SQL Alchemy Challengs
+# SQL Alchemy Challenge
 
 ## The Challenge
 In order to plan a trip to Hawaii, use SQL Alchemy to query a weather database for historical data. The goal is to survey typical weather patterns during the desired dates.
